@@ -1,5 +1,3 @@
-# LiberoOccupato
-
 # Controllo Stato Stanze con ESP8266
 
 ## Descrizione del Progetto
